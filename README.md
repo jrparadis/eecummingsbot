@@ -33,8 +33,8 @@ mo
 
 r-p-o-p-h-e-s-s-a-g-r:
 
-                                     r-p-o-p-h-e-s-s-a-g-r
-                           who
+                                    r-p-o-p-h-e-s-s-a-g-r
+                                    who
   a)s w(e loo)k
   upnowgath
                        PPEGORHRASS
@@ -125,5 +125,4 @@ trim
 Dodge) line,
  	 	above	the
  	mid    level Dodge, Royal and) the) base
-level    Dodge Coronet.    
-
+level    Dodge Coronet.   
