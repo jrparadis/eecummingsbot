@@ -1,4 +1,4 @@
-# eecummingsbot (github doesn't display this readme right, hit "raw" in the upper right)
+# eecummingsbot (github doesn't display this readme right, see http://pastebin.com/f2TpiFDx for correct formatting)
 formats any text into the style of an e. e. cummings poem. his work seems like it was written by a bot, so i made a bot to mimic him.
 
 a few examples of his work:
